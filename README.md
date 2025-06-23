@@ -1,11 +1,28 @@
-🚀 Excited to share my first milestone in the CodeAlpha Internship! 🚀
+# 📝 Word Counter – Java Swing Application
 
-I just completed Task 1: A Java-based Word Counter Application built with Swing. The project combines functionality with a sleek, modern interface to deliver:
+A modern and user-friendly **Word Counter GUI application** built using **Java Swing**.  
+This application allows users to input any text and view real-time counts for:
 
-✨ Real-time word, character, and sentence counting
-✨ A clean, minimalist UI with smooth error handling
-✨ Thoughtful design elements to enhance the user experience
+- ✅ Words
+- ✅ Characters (with and without spaces)
+- ✅ Sentences
 
-This project was a great opportunity to refine my Java skills, especially in GUI development. I'm thrilled with how it turned out, and I’m looking forward to the next challenge! Check out the screenshots and demo! 🎥📸
+---
 
-#JavaProject #SwingUI #CodeAlphaInternship #WordCounter #JavaDevelopment #TechJourney #ModernDesign #CodingMilestone #ProudMoment #SoftwareDevelopment
+## 📌 Features
+
+- 🧠 **Real-time updates** while typing
+- 🎯 Accurate word, character, and sentence counting
+- 🧼 **Clear button** to reset all fields
+- 🎨 Clean, modern interface with styled buttons and labels
+- 🔧 All built using **core Java and Swing** (no external libraries)
+
+---
+
+## 🛠️ Tech Stack
+
+- **Language:** Java  
+- **GUI Framework:** Java Swing  
+- **Concepts Used:** OOP, Event Handling, Layout Managers, Regex, String Manipulation
+
+---
